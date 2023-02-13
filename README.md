@@ -57,20 +57,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sarunnanimasai&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<script
-  src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js">
-</script>
-
-<link
-  rel="stylesheet"
-  href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
-/>
-
-<div class="calendar">
-    <!-- Loading stuff -->
-    Loading the data just for you.
-</div>
-
-<script>
-    GitHubCalendar(".calendar", "Sarunnanimasai", { responsive: true });
-</script>
+[![GitHub Calendar](http://i.imgur.com/S1h8XoB.jpg)](https://ionicabizau.github.io/github-calendar/Github Calendar)
